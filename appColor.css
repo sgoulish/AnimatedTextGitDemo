@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #190220;
+    background-color: teal;
 
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 16rem;
     font-family: 'Montserrat', sans-serif;
 }
 
